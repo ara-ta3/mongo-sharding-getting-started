@@ -1,2 +1,2 @@
-xymon-getting-started
+mongo-sharding-getting-started
 =====================
